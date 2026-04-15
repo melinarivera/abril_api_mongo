@@ -1,0 +1,29 @@
+{
+  "name": "api_mongo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000p\u0000i\u0000_\u0000m\u0000o\u0000n\u0000g\u0000o\u0000_\u0000m\u0000a\u0000z\u0000o\u00002\u00000\u00002\u00006\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandomartinez-neoland/api_mongo_mazo2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/fernandomartinez-neoland/api_mongo_mazo2026/issues"
+  },
+  "homepage": "https://github.com/fernandomartinez-neoland/api_mongo_mazo2026#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
